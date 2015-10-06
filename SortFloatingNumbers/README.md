@@ -1,19 +1,2 @@
-# Lab02
-Lab 2 starting point CS31 F'15
-# to compile
-make
-# to remove .o and executables
-make clean
-
-# to add changes to local repo
-git add sorter.c
-git commit
-
-# to push to remote master
-git push
-
-# to pull changes from master to your local
-git pull
-
-# lets you know if there is anything to add and commit in your local
-git status
+# Sort Floating Numbers
+This program will take an array of float numbers (no more than 100 numbers) and sort them. The users will know the amount of numbers, the minimum and maximum of numbers, and the array before and after being sorted.
